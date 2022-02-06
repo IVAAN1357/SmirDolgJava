@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">СмирДолг Оффлайн</string>
+    <string name="size_of_debt_caption">Общий долг</string>
+    <string name="add_button_description">Кнопка добавления долга</string>
+    <string name="confirm_button_description">Кнопка создания долга</string>
+    <string name="list_of_debts_description">Список долгов</string>
+    <string name="name_of_debt">Название</string>
+    <string name="sum_of_debt">Сумма</string>
+</resources>
